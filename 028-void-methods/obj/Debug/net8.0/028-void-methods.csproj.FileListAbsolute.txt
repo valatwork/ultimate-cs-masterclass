@@ -1,0 +1,15 @@
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\bin\Debug\net8.0\028-void-methods.exe
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\bin\Debug\net8.0\028-void-methods.deps.json
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\bin\Debug\net8.0\028-void-methods.runtimeconfig.json
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\bin\Debug\net8.0\028-void-methods.dll
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\bin\Debug\net8.0\028-void-methods.pdb
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\obj\Debug\net8.0\028-void-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\obj\Debug\net8.0\028-void-methods.AssemblyInfoInputs.cache
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\obj\Debug\net8.0\028-void-methods.AssemblyInfo.cs
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\obj\Debug\net8.0\028-void-methods.csproj.CoreCompileInputs.cache
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\obj\Debug\net8.0\028-void-methods.sourcelink.json
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\obj\Debug\net8.0\028-void-methods.dll
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\obj\Debug\net8.0\refint\028-void-methods.dll
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\obj\Debug\net8.0\028-void-methods.pdb
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\obj\Debug\net8.0\028-void-methods.genruntimeconfig.cache
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\028-void-methods\obj\Debug\net8.0\ref\028-void-methods.dll

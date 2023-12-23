@@ -1,0 +1,5 @@
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\027-variables-scope\obj\Debug\net8.0\027-variables-scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\027-variables-scope\obj\Debug\net8.0\027-variables-scope.AssemblyInfoInputs.cache
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\027-variables-scope\obj\Debug\net8.0\027-variables-scope.AssemblyInfo.cs
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\027-variables-scope\obj\Debug\net8.0\027-variables-scope.csproj.CoreCompileInputs.cache
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\027-variables-scope\obj\Debug\net8.0\027-variables-scope.sourcelink.json
