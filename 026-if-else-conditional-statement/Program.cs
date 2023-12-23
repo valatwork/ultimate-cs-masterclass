@@ -18,7 +18,7 @@ if (userChoice.Length <= 3)
 {
     Console.WriteLine("Short answer");
 }
-// else is only checked if the condition for if has not been met
+
 else if (userChoice.Length < 10 )
 {
     Console.WriteLine("Medium answer");
