@@ -1,0 +1,14 @@
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\bin\Debug\net8.0\026-if-else-conditional-statement.exe
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\bin\Debug\net8.0\026-if-else-conditional-statement.deps.json
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\bin\Debug\net8.0\026-if-else-conditional-statement.runtimeconfig.json
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\bin\Debug\net8.0\026-if-else-conditional-statement.dll
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\bin\Debug\net8.0\026-if-else-conditional-statement.pdb
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\obj\Debug\net8.0\026-if-else-conditional-statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\obj\Debug\net8.0\026-if-else-conditional-statement.AssemblyInfoInputs.cache
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\obj\Debug\net8.0\026-if-else-conditional-statement.AssemblyInfo.cs
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\obj\Debug\net8.0\026-if-else-conditional-statement.csproj.CoreCompileInputs.cache
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\obj\Debug\net8.0\026-if-else-conditional-statement.dll
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\obj\Debug\net8.0\refint\026-if-else-conditional-statement.dll
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\obj\Debug\net8.0\026-if-else-conditional-statement.pdb
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\obj\Debug\net8.0\026-if-else-conditional-statement.genruntimeconfig.cache
+C:\Users\giardini val\OneDrive - The Boston Consulting Group, Inc\Documents\Learning\cs\ultimate-cs-masterclass\026-if-else-conditional-statement\obj\Debug\net8.0\ref\026-if-else-conditional-statement.dll
