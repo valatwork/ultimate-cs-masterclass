@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("027-variables-scope")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d25c5cd143fd5d0a481d3d923e3d85e956583808")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e7c66a06a81bf3232ea5e1df8020cffba355a9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("027-variables-scope")]
 [assembly: System.Reflection.AssemblyTitleAttribute("027-variables-scope")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

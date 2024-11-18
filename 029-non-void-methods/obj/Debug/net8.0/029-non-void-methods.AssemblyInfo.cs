@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("029-non-void-methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e7c66a06a81bf3232ea5e1df8020cffba355a9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("029-non-void-methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("029-non-void-methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
