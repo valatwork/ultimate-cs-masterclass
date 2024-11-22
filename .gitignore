@@ -402,3 +402,4 @@ FodyWeavers.xsd
 
 # Placeholder Project
 TodoList/
+.DS_Store
