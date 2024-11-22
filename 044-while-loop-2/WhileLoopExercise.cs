@@ -5,15 +5,13 @@
  which given two integers called firstNumber and lastNumber,
  should calculate the sum of numbers between them (including the numbers themselves).
 
-
-If lastNumber is smaller than firstNumber, the result shall be 0.
-
 */
 
 public class WhileLoopExercise
 {
  public static int CalculateSumOfNumbersBetween(int firstNumber, int lastNumber)
  {
+  // If lastNumber is smaller than firstNumber, the result shall be 0.
   if (firstNumber < lastNumber)
   {
    return 0;
