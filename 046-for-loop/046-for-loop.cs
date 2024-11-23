@@ -1,4 +1,11 @@
-﻿ForLoop1();
+/* 
+for (inizialization; Boolean; iterator)
+{
+    statements
+}
+*/ 
+
+ForLoop1();
 Factorial();
 
 void ForLoop1()
