@@ -5,6 +5,20 @@ switch statement
 - each case must be unique
 - the first true case will get executed (top to bottom)
 - default will always be evaluated last, regardless of where it's placed
+
+switch(expression)
+{
+    case constant expression 1:
+        Other statements
+        break;
+    case relational expression 2:
+        Other statements
+        break;
+    ...
+    default:
+        Other statements
+        break;
+}
 */
 
 Console.WriteLine("Hello, World!");
