@@ -1,4 +1,16 @@
-﻿NumLoop1(); 
+/* 
+while (Boolean expression)
+{
+    statements
+}
+- the condition is tested before the loop runs
+- statements will get executed as long as long as the expression is true
+- braces are required if more than one statement must be executed
+- infinite loops!
+
+*/
+
+NumLoop1(); 
 NumLoop2();
 // InfNumLoop();
 NumLoop3();
