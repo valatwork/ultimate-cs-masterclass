@@ -1,4 +1,12 @@
-﻿
+/* 
+switch statement
+- does not work with float and double data types
+- case labels use a pattern: constant or relational
+- each case must be unique
+- the first true case will get executed (top to bottom)
+- default will always be evaluated last, regardless of where it's placed
+*/
+
 Console.WriteLine("Hello, World!");
 Console.WriteLine("[S]ee all TODOs");
 Console.WriteLine("[A]dd a TODO");
