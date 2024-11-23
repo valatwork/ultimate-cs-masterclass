@@ -1,4 +1,14 @@
-﻿WordLoop1();
+/* 
+do {
+    statements
+}
+while (Boolean expression)
+
+a do-while loop will always get executed at least once
+
+*/
+
+WordLoop1();
 WordLoop2();
 WordLoop3();
 void WordLoop1()
