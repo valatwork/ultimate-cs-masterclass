@@ -1,4 +1,20 @@
-﻿Console.WriteLine("[S]ee all TODOs");
+/* 
+if(some Boolean expression)
+{
+    Other statements
+}
+else if (other Boolean expression)
+{
+    Other statements
+}
+...
+else
+{
+    Other statements
+}
+*/
+
+Console.WriteLine("[S]ee all TODOs");
 Console.WriteLine("[A]dd a TODO");
 Console.WriteLine("[R]emove a TODO");
 Console.WriteLine("[E]xit");
