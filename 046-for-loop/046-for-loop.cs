@@ -1,5 +1,5 @@
 /* 
-for (inizialization; Boolean; iterator)
+for (initialization; Boolean; iterator)
 {
     statements
 }
@@ -7,6 +7,9 @@ for (inizialization; Boolean; iterator)
 
 ForLoop1();
 Factorial();
+
+Console.ReadKey();
+return;
 
 void ForLoop1()
 {
@@ -16,7 +19,6 @@ void ForLoop1()
     }
     Console.WriteLine("The loop is finished");
 }
-
 static int Factorial(int number)
 {
     int result = 1;
@@ -27,4 +29,3 @@ static int Factorial(int number)
     Console.WriteLine("Factorial is finished")
 }
 
-Console.ReadKey();
