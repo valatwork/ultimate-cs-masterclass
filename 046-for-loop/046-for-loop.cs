@@ -6,7 +6,7 @@ for (initialization; Boolean; iterator)
 */ 
 
 ForLoop1();
-Factorial();
+FactorialLoop02();
 
 Console.ReadKey();
 return;
@@ -19,13 +19,55 @@ void ForLoop1()
     }
     Console.WriteLine("The loop is finished");
 }
-static int Factorial(int number)
+
+
+/* FactorialLoop();
+* function called without any arguments but requires one parameter (int number)
+* 
+ static int FactorialLoop(int number)
 {
     int result = 1;
     for (int i = 1; i <= 5; ++i)
     {
         result *= i;
     }
-    Console.WriteLine("Factorial is finished")
-}
 
+    Console.WriteLine("Factorial is finished");
+    
+}*/
+
+
+void FactorialLoop02()
+{
+    void ChooseFactorial()
+    {
+        Console.WriteLine("Enter a number to calculate its factorial:");
+        string input = Console.ReadLine();
+        if (int.TryParse(input, out int number))
+        {
+            int result = Factorial(number);
+            Console.WriteLine($"The factorial of {number} is {result}");
+        }
+        else
+        {
+            Console.WriteLine("Invalid input. Please enter a valid integer.");
+        }
+
+        Console.ReadKey();
+        
+    }
+
+    static int Factorial(int number)
+    {
+        int result = 1;
+        for (int i = 1; i <= number; ++i)
+        {
+            result *= i;
+        }
+
+        Console.WriteLine("Factorial is finished");
+        return result;
+    }
+    
+    ChooseFactorial();
+}
