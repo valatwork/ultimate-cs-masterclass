@@ -1,7 +1,4 @@
-﻿using Microsoft.VisualBasic;
-using System.ComponentModel;
-
-var userChoice = Console.ReadLine();
+﻿var userChoice = Console.ReadLine();
 bool isLong = IsLong(userChoice);
 
 bool IsLong(string input)
